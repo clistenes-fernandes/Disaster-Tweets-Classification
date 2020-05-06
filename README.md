@@ -1,5 +1,5 @@
 # Disaster-Tweets-Classification
-## Classification of disaster tweets using Convolutional Neural Network and Recurrent Neural Network
+## Classification of disaster tweets using Convolutional and Recurrent Neural Network
 
 This project was inspired by a Kaggle competition that asked the participants try to predict either a tweeter was real about a disaster or not. The platform provided the data for training and also the test data. 
 So, after sending the predictions to Kaggle I decided to post some result on Github using the training dataset, splitting into train and test.
